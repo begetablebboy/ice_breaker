@@ -47,6 +47,16 @@ Install dependencies
   pipenv install
 ```
 
+To activate this project's virtualenv
+```bash
+  pipenv shell
+```
+
+Alternatively, run a command inside the virtualenv
+```bash
+  pipenv run
+```
+
 Start the flask server
 
 ```bash
